@@ -13,6 +13,10 @@ Web Server: Firebase
 User Interface: Bootstrap 5.3.0
 Stack: HyperText Markup Language, Cascading Stylesheet, JavaScript
 
+Content Delivery Network
+URL: https://cdn.rayatiga.com/
+-- UNDER DEVELOPMENT --
+
 Page Information
 Main
 Home Page: https://rayatiga.com/
