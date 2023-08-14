@@ -15,7 +15,12 @@ Stack: HyperText Markup Language, Cascading Stylesheet, JavaScript
 
 Content Delivery Network
 URL: https://cdn.rayatiga.com/
--- UNDER DEVELOPMENT --
+Invoice: https://cdn.rayatiga.com/invoice/
+Legacy: https://cdn.rayatiga.com/legacy/
+Pawonkos799: https://cdn.rayatiga.com/pawonkos799/
+Rayatiga: https://cdn.rayatiga.com/rayatiga/
+Staging: https://cdn.rayatiga.com/staging/
+Sultan Kautsar: https://cdn.rayatiga.com/sultan-kautsar/
 
 Page Information
 Main
@@ -29,19 +34,25 @@ Home Page: https://rayatiga.com/hosting/
 About Page: https://rayatiga.com/hosting/about/
 Contact Page: https://rayatiga.com/hosting/contact/
 Pricing Page: https://rayatiga.com/hosting/pricing/
+Resources
+Checkout: https://rayatiga.com/res/checkout/
+Invoice: https://rayatiga.com/res/invoice/
+Legacy: https://rayatiga.com/res/legacy
+Payment: https://rayatiga.com/res/payment
+Staging: https://rayatiga.com/res/staging
 
 User Interface Information
 Technology: Bootstrap 5.3.0
-Cascading Stylesheet Main: https://rayatiga.com/asset/css/bootstrap.min.css
-Cascading Stylesheet Icon: https://rayatiga.com/asset/css/bootstrap-icons.min.css
-JavaScript: https://rayatiga.com/asset/js/bootstrap.bundle.min.js
-Font Woff: https://rayatiga.com/asset/font/bootstrap-icons.woff
-Font Woff2: https://rayatiga.com/asset/font/bootstrap-icons.woff2
+Cascading Stylesheet Main: https://cdn.rayatiga.com/rayatiga/css/bootstrap.min.css
+Cascading Stylesheet Icon: https://cdn.rayatiga.com/rayatiga/css/bootstrap-icons.min.css
+JavaScript: https://cdn.rayatiga.com/rayatiga/js/bootstrap.bundle.min.js
+Font Woff: https://cdn.rayatiga.com/rayatiga/font/bootstrap-icons.woff
+Font Woff2: https://cdn.rayatiga.com/rayatiga/font/bootstrap-icons.woff2
 
 Asset Information
-Cascading Stylesheet: https://rayatiga.com/asset/css/main.css
-JavaScript Main: https://rayatiga.com/asset/js/main.js
-JavaScript Template: https://rayatiga.com/asset/js/template.js
+Cascading Stylesheet: https://cdn.rayatiga.com/rayatiga/css/main.css
+JavaScript Main: https://cdn.rayatiga.com/rayatiga/js/main.js
+JavaScript Template: https://cdn.rayatiga.com/rayatiga/js/template.js
 
 Image Information
 Brand: Open Graph and Logo
